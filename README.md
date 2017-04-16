@@ -36,6 +36,7 @@ You will need to do this everytime you load it up on mobile however.
 [Firefox用](https://addons.mozilla.org/en-US/firefox/addon/stylish/) 
 
 インストールが終わったら、 [Userstyles.orgのkktCSSページ](https://userstyles.org/styles/141350/kirakiratter) の[Install with Stylish]ボタンを押して...、素敵なキラキラッターに着飾れたかな。楽しんでね。
+
 Stylishはデザインを自分で編集できるから、新しいCSSコーデ(ィング)に挑戦することだってできちゃうんだ。
 [kirakiratter.com+kktCSS+キラキラブックマークレットで、キラキラッターを楽しもう！](http://qiita.com/emerald_magic/items/27d233870e04d791fe2b) も試してみて
 
