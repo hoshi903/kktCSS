@@ -29,6 +29,7 @@ You will need to do this everytime you load it up on mobile however.
 ## 素敵なキラキラッターのはじめかた
 ### Desktop
 まずはブラウザに"Stylish"をインストールしちゃおう！
+
 [Chrome/Opera/Vivaldi用](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)
 (Operaの人は ["Download Chrome Extension"](https://addons.opera.com/en/extensions/details/download-chrome-extension-9/) も使ってインストールしてね)
 
